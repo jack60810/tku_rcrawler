@@ -3,7 +3,7 @@
   font-family: 'oxxo';
   font-style: normal;
   font-weight: 600;
-  src: url('/libs/remark-css-0.0.1/jf-openhuninn.ttf');
+  src: url('/libs/remark-css-0.0.1/jf-openhuninn.ttf'), url('/jf-openhuninn.ttf');
 }
 body{
   font-family: 'oxxo';
