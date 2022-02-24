@@ -13,6 +13,34 @@ output:
       highlightLines: true
       countIncrementalSlides: false
 ---
+
+class: inverse, center, middle
+# 講在開始之前
+# 禮拜六應該好好睡覺，別被我荼毒
+# 選課請三思
+
+---
+
+# Who am I ? 
+蔡育儒 (Jack Tsai) : 
+  * Email : jack608102@gmail.com (plz use this to contect me)
+  * 專長 : 資料探勘、資料平行化處理、機器學習
+  * 已授科目 : 
+    * Data Mining 
+    * Data Viz. 
+    * EXPLORATION AND APPLICATION OF INTERNET DATA
+    * R Language
+  * 自我介紹 : 
+    * 華為、台灣之星 Data Analyst
+    * Deloitte 副理
+    * Snapask Data Scientist
+    * Sounds on(Goodnight)、17Live、9Count Sr. Data Scientist
+    * 商業研究院、Powerwell、新興集團 顧問
+    
+
+
+---
+
 # 課程內容
 
 成績：
@@ -24,6 +52,21 @@ output:
 課程內容 :
 Lunix、VM、Crawler、Text Mining(NLP)、R、Python
 
+---
+
+#修課注意事項
+* 課程禁忌：
+  * 上課聊天(可以跟我聊)或玩手機(除非你有電競水平)扣學期總成績２分。
+  * 上課未到卻點名則 整學期點名成績 瞬間歸０。
+  * 不得拍白板內容，除非經過我允許。
+* 考試、作業：
+  * 考試為開書考，作弊(參考隔壁螢幕) 一律０分。
+  * 作業：作業若為抄襲，多少人抄同一份，每個人應得分數為平均得分。
+* 請假 :
+  * 不需列印請假單，請用email與我聯繫，並說明原因，若回信代表請假成功，不接受當天早上請假，除非你病到要掛急診，或家裡有重大事情發生。最晚請假時間為禮拜六凌晨 00:00 之前。
+  
+
+---
 ---
 # All about Data
 
