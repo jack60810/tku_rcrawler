@@ -23,7 +23,7 @@ class: inverse, center, middle
 
 # Who am I ? 
 蔡育儒 (Jack Tsai) : 
-  * Email : jack608102@gmail.com (plz use this to contect me)
+  * Email : jack608102@gmail.com (plz Contact me with this Email.)
   * 專長 : 資料探勘、資料平行化處理、機器學習
   * 已授科目 : 
     * Data Mining 
@@ -66,7 +66,6 @@ Lunix、VM、Crawler、Text Mining(NLP)、R、Python
   * 不需列印請假單，請用email與我聯繫，並說明原因，若回信代表請假成功，不接受當天早上請假，除非你病到要掛急診，或家裡有重大事情發生。最晚請假時間為禮拜六凌晨 00:00 之前。
   
 
----
 ---
 # All about Data
 
@@ -154,7 +153,8 @@ Issue:使用的界線?規範?
 
 ---
 class: inverse, center, middle
-# 慎選組員
+# 最後
+# 請慎選組員
 
 
 
